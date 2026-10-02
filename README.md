@@ -59,6 +59,7 @@ Olist connects regional small merchants across Brazil to central marketplaces. A
 │   └── olist_dashboard_data.csv   # Aggregated data for dashboard
 ├── notebooks/
 │   └── 01_exploration.ipynb       # SQL pipeline, EDA, and RFM calculations
+├── load_data.py                   # python file
 ├── olist.db                       # Relational database file
 ├── requirements.txt               # Python package dependencies
 └── README.md                      # Project documentation
